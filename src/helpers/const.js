@@ -1,0 +1,1 @@
+const BASE_URL ="https://api-car-rental.binaracademy.org"
